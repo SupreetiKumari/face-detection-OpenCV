@@ -1,5 +1,5 @@
 # face-detection-OpenCV
-# helps detects faces,colours ,shapes etc
+# helps detect faces,colours ,shapes etc
 A basic C++program that uses the OpenCV library to detect faces in a live stream from webcam or in a video file stored in the local machine. This program detects colours, shapes and faces in real time and tracks it.
 
 To use the program some important things-
