@@ -10,9 +10,15 @@ To use the program some important things-
 4. Use the required folders/files for either colour detection, basic shape detection or face detection.
 <img width="676" alt="Screenshot 2021-06-13 at 7 48 45 PM" src="https://user-images.githubusercontent.com/78208708/121811350-ca312d00-cc81-11eb-919e-d78e097bf1ec.png">
 
+
 A demo of the Face Detection part
 
+
 <img width="1057" alt="Screenshot 2021-06-24 at 6 19 47 PM" src="https://user-images.githubusercontent.com/78208708/123265887-22d1b700-d519-11eb-8ad5-f2327648ea23.png">
+
+
+<img width="433" alt="Screenshot 2021-06-24 at 6 20 04 PM" src="https://user-images.githubusercontent.com/78208708/123266407-9ecbff00-d519-11eb-8dc9-e7abc4610711.png">  
+
 
 
 
