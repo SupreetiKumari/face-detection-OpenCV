@@ -12,6 +12,8 @@ To use the program some important things-
 
 A demo of the Face Detection part
 
+<img width="1057" alt="Screenshot 2021-06-24 at 6 19 47 PM" src="https://user-images.githubusercontent.com/78208708/123265887-22d1b700-d519-11eb-8ad5-f2327648ea23.png">
+
 
 
 
